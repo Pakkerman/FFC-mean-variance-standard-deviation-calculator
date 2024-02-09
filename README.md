@@ -1,3 +1,23 @@
-# Mean-Variance-Standard Deviation Calculator
+## FFC Data Analysis with Python Project - Mean-Variance-Standard Deviation Calculator
 
-This is the boilerplate for the Mean-Variance-Standard Deviation Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
+
+### Info
+This is the completed project for FFC Analysis with Python Project course.
+
+Please check out 
+<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator" style="color: orange;">freeCodeCamp.com</a> for more details.
+
+### Usege:
+
+#### Python:
+
+install:
+```
+poetry install
+```
+
+run test:
+```
+python3 main.py
+```
+
